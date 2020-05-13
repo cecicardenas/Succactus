@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
         <!--<head add_header X-Frame-Options SAMEORIGIN  name="X-Frame-Options" value="SAMEORIGIN">-->
         <meta charset="UTF-8">
-        <title>SUCCACTUS🌵</title>
+        <title>SUCCACTUS</title>
         <link  rel="icon"   href="images/favicon.ico" type="image/png" />
         <link rel="stylesheet" href="css/style.css">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -113,11 +113,14 @@ and open the template in the editor.
 
         <br>
 
-        <div class="">
-
+        <div class="middle-container">
+          <img src="images/img25.jpg" class="img-middle" alt="">
+          <h3>Asesoría</h3>
+          <p>Aprende a cuidar tus plantas favoritas y apoya la reforestación del planeta</p>
         </div>
 
 
+<br>
         <div class="pie">
 
             <h3>Contactanos</h3>
