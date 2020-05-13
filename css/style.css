@@ -223,13 +223,33 @@ hr {
   width: 10%;
 }
 
+.middle-container {
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.img-middle {
+
+  border: none;
+    margin: 5px;
+    width: 25%;
+    border-radius:50%;
+    float: left;
+    margin-right: 30px;
+}
+
+p {
+  line-height: 2;
+}
+
 .contacto {
     width: 100%;
     border:none;
 }
 
 .pie {
-    background-color: #eaf5e8;
+    background-color: #cceabb;
 }
 
 .map {
