@@ -1,0 +1,23 @@
+@media (min-width: 1000px) and (max-width: 1068px) {
+  .img-header {
+    width: rgba(200, 0, 0, 0);
+  }
+
+  .head1 {
+    font-size: 7rem;
+  }
+
+  .head2 {
+    font-size: 2.5rem;
+  }
+
+  .square-border {
+    width: 640px;
+    height: 370px;
+  }
+
+  .img-yellow {
+    margin-top: 470px;
+    margin-left: 20px;
+  }
+}
