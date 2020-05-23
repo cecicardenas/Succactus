@@ -26,7 +26,7 @@ body {
   font-family: 'Alice', serif;
   color: #ec709a;
   font-size: 8.5rem; /* 145px */
-  position: absolute;
+  position: absolute; 
   margin-top: 20px;
 }
 
